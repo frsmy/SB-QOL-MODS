@@ -1,0 +1,9 @@
+*You must have installed and ran Forge 1.8.9*
+Install Pizza_Client-1.1.3.jar
+Do Windows+R to open the "Run" menu
+Type in %appdata%
+Go to "Roaming" an then go to ".minecraft"
+Open the "mods" folder and drag Pizza_Client-1.1.3.jar in it
+Launch Forge 1.8.9, connect to Hypixel
+To open the gui do /pizza
+Enjoy !
